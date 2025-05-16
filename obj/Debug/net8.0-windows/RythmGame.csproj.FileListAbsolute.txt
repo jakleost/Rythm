@@ -1,0 +1,14 @@
+D:\Rythm\RythmGame\bin\Debug\net8.0-windows\RythmGame.exe
+D:\Rythm\RythmGame\bin\Debug\net8.0-windows\RythmGame.deps.json
+D:\Rythm\RythmGame\bin\Debug\net8.0-windows\RythmGame.runtimeconfig.json
+D:\Rythm\RythmGame\bin\Debug\net8.0-windows\RythmGame.dll
+D:\Rythm\RythmGame\bin\Debug\net8.0-windows\RythmGame.pdb
+D:\Rythm\RythmGame\obj\Debug\net8.0-windows\RythmGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rythm\RythmGame\obj\Debug\net8.0-windows\RythmGame.AssemblyInfoInputs.cache
+D:\Rythm\RythmGame\obj\Debug\net8.0-windows\RythmGame.AssemblyInfo.cs
+D:\Rythm\RythmGame\obj\Debug\net8.0-windows\RythmGame.csproj.CoreCompileInputs.cache
+D:\Rythm\RythmGame\obj\Debug\net8.0-windows\RythmGame.dll
+D:\Rythm\RythmGame\obj\Debug\net8.0-windows\refint\RythmGame.dll
+D:\Rythm\RythmGame\obj\Debug\net8.0-windows\RythmGame.pdb
+D:\Rythm\RythmGame\obj\Debug\net8.0-windows\RythmGame.genruntimeconfig.cache
+D:\Rythm\RythmGame\obj\Debug\net8.0-windows\ref\RythmGame.dll
