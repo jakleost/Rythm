@@ -12,3 +12,4 @@ D:\Rythm\RythmGame\obj\Debug\net8.0-windows\refint\RythmGame.dll
 D:\Rythm\RythmGame\obj\Debug\net8.0-windows\RythmGame.pdb
 D:\Rythm\RythmGame\obj\Debug\net8.0-windows\RythmGame.genruntimeconfig.cache
 D:\Rythm\RythmGame\obj\Debug\net8.0-windows\ref\RythmGame.dll
+D:\Rythm\RythmGame\obj\Debug\net8.0-windows\RythmGame.sourcelink.json
